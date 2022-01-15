@@ -1,9 +1,3 @@
-#This code is written by
-#Nuri Kafali
-#Gorkem Buharali
-#Mehmetcan Biyik
-#Utkan Sivrikaya
-
 #This code visualize random colorful balls colliding, which are moving with random speeds.
 
 from tkinter import *
